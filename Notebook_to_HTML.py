@@ -1,8 +1,8 @@
 from nbconvert import HTMLExporter
 import nbformat
 
-NOTEBOOK_PATH = 'WEEK4/Lab3_Data_Preparation.ipynb'
-HTML_PATH = 'WEEK4/report/Lab3_Data_Preparation.html'
+NOTEBOOK_PATH = 'WEEK4/HW3_Data_Preparation.ipynb'
+HTML_PATH = 'WEEK4/report/HW3_Data_Preparation.html'
 
 # Load your notebook file with UTF-8 encoding
 with open(NOTEBOOK_PATH, encoding="utf-8") as f:
